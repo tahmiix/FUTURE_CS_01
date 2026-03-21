@@ -74,6 +74,7 @@ Restrict allowed origins:
   Access-Control-Allow-Origin: http://trusted-domain.com
 
 Nmap Scan Summary
+
 Open ports identified:
   3000 (Web Application)
   3306 (MySQL Database)
