@@ -50,6 +50,7 @@ Server Information Disclosure	Low
 CORS Misconfiguration	Medium
 
 🛡️ Recommendations
+
 Implement security headers (CSP, X-Frame-Options, etc.)
 
 Restrict CORS policy
